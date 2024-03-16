@@ -4,7 +4,7 @@
 
 1. Ссылка на сайт: *https://qa-scooter.praktikum-services.ru/*
 2. Документация API: *https://qa-scooter.praktikum-services.ru/docs/*
-3. Основа для написания автотестов: *Pytest*, *Requests*, 
+3. Основа для написания автотестов: *Pytest*, *Requests*
 4. В автотестах используются: фикстуры *@pytest.fixture* и параметризация *@pytest.mark.parametrize*
 5. Отчет о тестировании: *Allure*
 
